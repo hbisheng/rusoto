@@ -11,7 +11,7 @@ on:
       - cse
 
 env:
-  RUST_VERSION: 'nightly-2022-11-15'
+  RUST_VERSION: 'nightly-2026-01-30'
 
 jobs:
   unit_tests:
